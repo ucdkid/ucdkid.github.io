@@ -1,0 +1,54 @@
+body
+{
+	background-color: #ccccff;
+	background-image: url('../images/grunge.jpg');
+	font-family: Georgia, "Times New Roman", Times, serif;
+	padding-left:15em;
+	padding-right:5em;
+}
+
+h1
+{
+	font-family:Geneva, Helvetica, Arial, sans-selif;
+}
+
+ul
+{
+	font-family:Geneva, Helvetica, Arial, sans-selif;
+}
+
+
+ul.navbar
+{
+	list-style-type: none;
+	position: absolute;
+	top: 2em;
+	left: 1em;
+	width: 10em;
+}
+
+ul.navbar li
+{
+	background-color: white;
+	margin: 0.5em;
+	padding: 1em;
+	border-left: 1em solid black;
+}
+
+a: link
+{
+	color: #660066;
+}
+
+a: visited
+{
+	color: #ff0066;
+}
+
+img.textwrap
+{
+	float: left;
+	margin: 10px;
+}
+
+
